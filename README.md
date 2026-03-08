@@ -47,4 +47,4 @@ ai-email-automation
 
 ## Author
 
-Muaz
+Muaz Fnu
